@@ -1,0 +1,16 @@
+{
+  "name": "helloas",
+  "version": "1.0.0",
+  "description": "react native demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "file:react-native-0.40.0.tgz"
+  },
+  "devDependencies": {}
+}

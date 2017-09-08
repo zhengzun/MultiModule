@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloAS.iml" filepath="$PROJECT_DIR$/HelloAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonmodule/commonmodule.iml" filepath="$PROJECT_DIR$/commonmodule/commonmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moudlea/moudlea.iml" filepath="$PROJECT_DIR$/moudlea/moudlea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moudlec/moudlec.iml" filepath="$PROJECT_DIR$/moudlec/moudlec.iml" />
+    </modules>
+  </component>
+</project>
